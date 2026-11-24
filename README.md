@@ -49,6 +49,6 @@ dotnet run
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/column-headers
+**Documentation**: https://help.syncfusion.com/grid-sdk/blazor/data-grid/column-headers
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/column-template?theme=fluent2
